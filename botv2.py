@@ -16,8 +16,9 @@ from telegram.ext import CallbackContext
 import telepot
 
 last_time_used = {}
-admin_ids = [5145402317, 987654321] # Đổi thành admin ID của bạn
-TOKEN = '' # Đổi thành token của bot Telegram bạn
+admin_ids = [1365988648] #admin id ở đây
+TOKEN = '7679335969:AAGMCLSnzqbWD54OvclKz6RwqqWG7MbbZ6c' # bot token ở đây
+
 
 
 #HÀM CLEAR SCREEN
